@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shadatrade
 
 <<<<<<< HEAD
@@ -28,4 +29,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> fabfd9d (Demo UI)
+=======
+=======
+# shadatrade
+>>>>>>> 2ad05f2 (Initial commit)
+>>>>>>> 3cf56fe (Rebased master in order to merge it with main)
