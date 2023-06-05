@@ -10,4 +10,5 @@ trade clothes in the same price ranges?
 
 features : profile, photos for clothes,description,  pricing, cart, map, messaging, 
 
+how do we make money potentially? subscription, advertising,
 
