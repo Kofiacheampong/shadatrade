@@ -1,20 +1,6 @@
 <<<<<<< HEAD
 # shadatrade
 
-<<<<<<< HEAD
-Market Place To Swap Fits 
-
-For people within a 3 mile radius.. of each other
-
-works in MN cos of heavy thrift culture 
-
-trade clothes in the same price ranges?
-
-features : profile, photos for clothes,description,  pricing, cart, map, messaging, 
-
-how do we make money potentially? subscription, advertising,
-
-=======
 A new Flutter project.
 
 ## Getting Started
@@ -35,4 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # shadatrade
 >>>>>>> 2ad05f2 (Initial commit)
->>>>>>> 3cf56fe (Rebased master in order to merge it with main)
+=======
+# shadatrade
+
+Market Place To Swap Fits 
+>>>>>>> 6c1f951 (Read Mu Update)
