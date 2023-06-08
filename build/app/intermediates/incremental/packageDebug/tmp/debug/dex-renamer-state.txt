@@ -1,0 +1,4 @@
+#Thu Jun 08 13:48:12 CDT 2023
+base.0=C\:\\Users\\anier\\StudioProjects\\shadatrade\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
